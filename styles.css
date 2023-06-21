@@ -1,0 +1,84 @@
+
+.del-btn {
+text-align: center;
+position: relative;
+bottom: 50px;
+
+}
+.debtAlert{
+    color: red;
+}
+
+.gradient-custom {
+    background: #bab2c4;
+    
+    background: -webkit-linear-gradient(to right, rgb(172, 161, 184), rgba(37, 117, 252, 1));
+    
+    background: linear-gradient(to right, rgb(17, 181, 203), rgba(37, 117, 252, 1))
+    }
+
+th{
+/* margin-left: 30px; */
+border: 1px solid;
+}
+table{
+    width: 60rem;
+    /* margin: 100px; */
+    margin-bottom: 70px ;
+    margin-left: 20rem;
+}
+td{
+    border: 1px solid;
+
+}
+.amtdata{
+    color: red;
+}
+.debtdata{
+    color: red;
+}
+.prodCost{
+    color: blue;
+}
+
+.notexist{
+    color: red;
+}
+
+.debtAlert{
+    color: red;
+}
+
+.image{
+    width:100%;
+   
+}
+
+.link{
+    text-decoration: none;
+}
+.forms{
+    width: 200px;
+}
+
+.space-margin{
+    margin-left: 20px;
+}
+
+.delete{
+    margin-right: 300px;
+}
+
+.text{
+    margin-right:300px;
+}
+
+.h1{
+    position: absolute;
+    text-align: center;
+    margin-left: 700px;
+    top: 400px;
+}
+.divh1{
+    color: blue;
+}
